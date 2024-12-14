@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+ul,li,h2{
+    display: inline;
+}
+ul{
+    margin-left: 70%;
+}
+li{
+    margin: 1px;
+    font-size:16px;
+    cursor: pointer;
+}
+h1{
+    margin-left: 45%;
+    font-size: 20px ;
+    font-family: Arial;
+    font: weight bolder 800;
+}
+.header{
+    padding:10px ;
+}
+
+h2{
+    margin-left: 36%;
+    font-size: 14px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: weight bolder 800;
+}
+li:hover{
+    color: orangered;
+}
+input{
+    width:60% ;
+    padding: 15px; 
+}
+.searchbar{
+    padding: 40px;
+    text-align: center;
+}
+img{
+    width: 50%;
+    height: 25%; 
+    margin-left:25% ;
+}
+.box p{
+    font-size: medium;    
+    margin-left:32% ;
+    width: 450px;
+}
+
+.about{
+    margin-top:20px ;
+    padding-bottom: 20px;
+}
+.contact{
+    padding-bottom: 20px;
+}
+p{
+    text-align: center;
+}
